@@ -5,7 +5,7 @@ Brainfuck IDE is a Python 3.10 development environment built to help facilitate 
 
 ## What features are included?
 Brainfuck IDE includes many useful features that help with Brainfuck coding; with an output box; a list of memory locations and their values; error detection, catching, identification and location; and the option to step through code with a live view of the Brainfuck data pointer, memory locations and values, and current code execution position.
-A full list of features can be found [here]().
+A full list of features can be found [here](https://github.com/ReeceASmith/brainfuck-ide/blob/main/features.md).
 
 ## How do I install?
 Prerequisites:
