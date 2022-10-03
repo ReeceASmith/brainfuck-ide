@@ -8,6 +8,7 @@ Brainfuck IDE includes many useful features that help with Brainfuck coding; wit
 A full list of features can be found [here](https://github.com/ReeceASmith/brainfuck-ide/blob/main/features.md).
 
 ## How do I install?
+Full instructions can be found [here](https://github.com/ReeceASmith/brainfuck-ide/blob/main/Install%20Instructions.md)  
 Prerequisites:
 - Python 3.10+ (may work with any Python <3.10 version - untested)
 - Python tkinter
