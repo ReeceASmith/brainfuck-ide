@@ -207,7 +207,7 @@ def exeBF(bfcode, memoryPos, ifLoopPos, skipCommand, currentChar):
                 window.wait_window(inputWindow)
                 
             elif char == "[":
-                if appVars["memory"][memoryPos] == 0:
+                if appVars["memory"][memoryPos] == 0 or skipCommand:
                     skipCommand = True
                 ifLoopPos.append(i)
             elif char == "]":
